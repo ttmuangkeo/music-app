@@ -1,0 +1,893 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"insert",
+				"insertUserDetails"
+			],
+			[
+				"mysqli_conn",
+				"mysqli_connect_errno"
+			],
+			[
+				"date_default_",
+				"date_default_timezone_set"
+			],
+			[
+				"was",
+				"wasSuccessful"
+			],
+			[
+				"error",
+				"errorArray"
+			],
+			[
+				"pas",
+				"password2"
+			],
+			[
+				"em",
+				"email2"
+			],
+			[
+				"validate",
+				"validateUsername"
+			],
+			[
+				"valida",
+				"validateEmails"
+			],
+			[
+				"pass",
+				"password2"
+			],
+			[
+				"san",
+				"sanitizeFormUsername"
+			],
+			[
+				"ipnut",
+				"inputText"
+			],
+			[
+				"input",
+				"inputText"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"register",
+				"registerButton"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"restart",
+				"restartBtn"
+			],
+			[
+				"magin",
+				"margin-left"
+			],
+			[
+				"resta",
+				"restartBtn"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"text",
+				"text-danger"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"statr",
+				"start-menu"
+			],
+			[
+				"backgr",
+				"background-attachment"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"star",
+				"start-menu"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"list-st",
+				"list-style"
+			],
+			[
+				"getel",
+				"getElementsByTagName"
+			],
+			[
+				"sldieIn",
+				"slideInRight"
+			],
+			[
+				"spn",
+				"spanText"
+			],
+			[
+				"margn",
+				"margin-top"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"span",
+				"spanText"
+			],
+			[
+				"backgound",
+				"background-attachment"
+			],
+			[
+				"backgo",
+				"background-image"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"backgronud",
+				"background-image"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"text-s",
+				"text-decoration-style"
+			],
+			[
+				"aboutme",
+				"aboutMeBtn"
+			],
+			[
+				"trani",
+				"transition"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"aboutm",
+				"aboutMeContent"
+			],
+			[
+				"aboutMe",
+				"aboutMeContent"
+			],
+			[
+				"v",
+				"visibility"
+			],
+			[
+				"fontst",
+				"font-style"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"lyric",
+				"lyrics-block"
+			],
+			[
+				"lyrics",
+				"lyricsCtrl"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"d",
+				"DATABASE_URL"
+			],
+			[
+				"btn",
+				"btn-lg"
+			],
+			[
+				"buton",
+				"button_1"
+			],
+			[
+				"trans",
+				"translateZ()"
+			],
+			[
+				"w",
+				"white-text"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"overflow",
+				"overflow-x"
+			],
+			[
+				"img-",
+				"img-left"
+			],
+			[
+				"img-left",
+				"img-left-series"
+			],
+			[
+				"ig-",
+				"img-responsive"
+			],
+			[
+				"black",
+				"black-cloud"
+			],
+			[
+				"char",
+				"characters"
+			],
+			[
+				"ch",
+				"character"
+			],
+			[
+				"cha",
+				"characters"
+			],
+			[
+				"chara",
+				"characters"
+			],
+			[
+				"search",
+				"searchTerm"
+			],
+			[
+				"signup",
+				"signup-border"
+			],
+			[
+				"sign",
+				"signup-border"
+			],
+			[
+				"te",
+				"white-text"
+			],
+			[
+				"signu",
+				"signup-title"
+			],
+			[
+				"list-group",
+				"list-group-item"
+			],
+			[
+				"text-",
+				"text-uppercase"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"heart",
+				"heart_button"
+			],
+			[
+				"sea",
+				"searchText"
+			],
+			[
+				"event",
+				"event_dategmt"
+			],
+			[
+				"card",
+				"card-block"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"sra",
+				"searchText"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"heigh",
+				"max-height"
+			],
+			[
+				"card-",
+				"card-title"
+			],
+			[
+				"navbar",
+				"navbar-toggle-right"
+			],
+			[
+				"navbart",
+				"navbar-toggle-right"
+			],
+			[
+				"navbar-to",
+				"navbar-toggler-right"
+			],
+			[
+				"navbar-",
+				"navbar-toggler"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"artwork",
+				"artworkUrl100"
+			],
+			[
+				"button",
+				"button_1"
+			],
+			[
+				"gly",
+				"glyphicon-play"
+			],
+			[
+				"track",
+				"trackViewUrl"
+			],
+			[
+				"location",
+				"angular: $locationProvider"
+			],
+			[
+				"Ly",
+				"LyricalSearch"
+			],
+			[
+				"lyri",
+				"LyricalSearch"
+			],
+			[
+				"L",
+				"LyricalSearch"
+			],
+			[
+				"park",
+				"park_path"
+			],
+			[
+				"parks",
+				"parks_path"
+			],
+			[
+				"tr",
+				"text-center"
+			],
+			[
+				"merge",
+				"merge_sort"
+			],
+			[
+				"right",
+				"right_sorted"
+			],
+			[
+				"lef",
+				"left_sorted"
+			],
+			[
+				"ar",
+				"arr2"
+			],
+			[
+				"favor",
+				"favorite"
+			],
+			[
+				"artu",
+				"artworkUrl100"
+			],
+			[
+				"last",
+				"last_seen"
+			],
+			[
+				"is",
+				"is_empty"
+			],
+			[
+				"mat",
+				"material-icons"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"Post",
+				"postgres"
+			],
+			[
+				"delete",
+				"delete_front"
+			],
+			[
+				"ad",
+				"add_to_front"
+			],
+			[
+				"new",
+				"new_item"
+			],
+			[
+				"print_",
+				"print_shape"
+			],
+			[
+				"print",
+				"print_area"
+			],
+			[
+				"att",
+				"attr_accessor"
+			],
+			[
+				"css",
+				"css\tHTML - Style tag"
+			],
+			[
+				"letter",
+				"letter_object"
+			],
+			[
+				"sta",
+				"stalkers"
+			],
+			[
+				"car",
+				"carousel"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"portfolio",
+				"portfolioUrl"
+			],
+			[
+				"portfol",
+				"portfolioUrl"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"last_filter": "wrap",
+		"selected_items":
+		[
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package cont",
+				"Package Control: Remove Package"
+			],
+			[
+				"ejs",
+				"Set Syntax: EJS (<% %>)"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"instack",
+				"Package Control: Install Package"
+			],
+			[
+				"suble sett",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"listpa",
+				"Package Control: List Packages"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"linter setting",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"installpack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"theme",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"val",
+				"W3C Validators: Validate HTML5"
+			],
+			[
+				"valid",
+				"W3C Validators: Validate HTML5"
+			],
+			[
+				"validate",
+				"W3C Validators: Validate HTML5"
+			],
+			[
+				"html prett",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"install package ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/music-project/music-app/register.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/music-project/music-app/register-handler.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/music-project/music-app/login-hander.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/music-project/music-app/includes/handlers/login-hander.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/music-project/music-app/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Slotify/slotifyCreateWholeDatabaseSoFar.sql",
+		"/Users/Tim/Downloads/slotify-complete-database-with-data.sql",
+		"/Applications/XAMPP/xamppfiles/htdocs/MusicApp/index.php",
+		"/Applications/XAMPP/xamppfiles/etc/php.ini",
+		"/Applications/XAMPP/xamppfiles/htdocs/m2/phpserver/router.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/m2/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/m2/composer.phar",
+		"/Applications/XAMPP/xamppfiles/htdocs/m2/php.ini.sample",
+		"/Applications/XAMPP/xamppfiles/htdocs/m2/composer.json",
+		"/Users/Tim/Library/Application Support/bitconnect/bitconnect.conf",
+		"/Users/Tim/Desktop/foodtruck/public/app/services.js",
+		"/Users/Tim/Desktop/foodtruck/public/app/app.js",
+		"/Users/Tim/Desktop/foodtruck/public/index.html",
+		"/Users/Tim/Desktop/foodtruck/public/app/views/navbar.html",
+		"/Users/Tim/Desktop/foodtruck/.env",
+		"/Users/Tim/Desktop/foodtruck/public/app/views/404.html",
+		"/Users/Tim/Desktop/foodtruck/public/app/views/profile3.html",
+		"/Users/Tim/wdi/project/u1-project-1/main.js",
+		"/Users/Tim/Desktop/test.html",
+		"/Users/Tim/Desktop/noteable/package.json",
+		"/Users/Tim/Desktop/node/package.json",
+		"/Users/Tim/Desktop/test/index",
+		"/Users/Tim/Desktop/test/api test",
+		"/Users/Tim/Desktop/api test",
+		"/Users/Tim/Downloads/ajaxcrash/users.json",
+		"/Users/Tim/Downloads/ajaxcrash/user.json",
+		"/Users/Tim/Desktop/ionic-test/myproject/src/pages/hello-ionic/hello-ionic.scss",
+		"/Users/Tim/Desktop/my-story/index.html",
+		"/Users/Tim/Desktop/my-story/main.js",
+		"/Users/Tim/Desktop/my-story/readme.md",
+		"/Users/Tim/Desktop/my-story/style.css",
+		"/Users/Tim/Desktop/my-story/animate.css",
+		"/Users/Tim/Desktop/test/main.js",
+		"/Users/Tim/Desktop/test/index.html",
+		"/Users/Tim/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Tim/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Tim/Desktop/testing/main.js",
+		"/Users/Tim/wdi/project/Parallax-img-scroll/demo/js/parallaxImg.js",
+		"/Users/Tim/Downloads/memory-game-solution 2/js/main.js",
+		"/Users/Tim/Desktop/test/style.css",
+		"/Users/Tim/wdi/homework/racer-game-lab/starter-code/index.html",
+		"/Users/Tim/wdi/project/u1-project-1/style.css",
+		"/Users/Tim/wdi/homework/racer-game-lab/starter-code/app.js",
+		"/Users/Tim/wdi/project/u1-project-1/index.html",
+		"/Users/Tim/Documents/wdi-fundamentals-memorygame/JS/main.js",
+		"/Users/Tim/wdi/project/portfolio/ttmuangkeo v2/index.html",
+		"/Users/Tim/wdi/project/portfolio/ttmuangkeo v2/css/style.css",
+		"/Users/Tim/Desktop/untitled.css",
+		"/Users/Tim/Downloads/slidefolio/css/slidefolio.css",
+		"/Users/Tim/wdi/project/u2/views/layout.ejs",
+		"/Users/Tim/wdi/project/u2/views/signup.ejs",
+		"/Users/Tim/wdi/project/u2/views/login.ejs",
+		"/Users/Tim/wdi/project/u2/views/profile.ejs",
+		"/Users/Tim/wdi/project/u2/index.js",
+		"/Users/Tim/wdi/project/u1-project-2/index.js",
+		"/Users/Tim/wdi/project/u1-project-2/views/signupForm.ejs",
+		"/Users/Tim/wdi/project/u1-project-2/views/loginForm.ejs",
+		"/Users/Tim/wdi/project/u1-project-2/views/layout.ejs",
+		"/Users/Tim/wdi/project/u2/views/home.ejs",
+		"/Users/Tim/wdi/project/u1-project-2/controllers/auth.js",
+		"/Users/Tim/wdi/project/u2/controllers/auth.js",
+		"/Users/Tim/wdi/project/u2/views/home.html",
+		"/Users/Tim/wdi/project/u2/public/index.html",
+		"/Users/Tim/wdi/project/u2/public/app/controllers.js",
+		"/Users/Tim/wdi/project/u2/models/user.js",
+		"/Users/Tim/wdi/project/u2/config/passportConfig.js",
+		"/Users/Tim/wdi/project/u1-project-2/config/passportConfig.js",
+		"/Users/Tim/wdi/project/u2/public/app/views/login.html",
+		"/Users/Tim/wdi/project/u2/public/app/views/signup.html",
+		"/Users/Tim/wdi/project/u2/public/app/app.js",
+		"/Users/Tim/wdi/project/u2/public/app/views/profile.html",
+		"/Users/Tim/wdi/project/u2/public/app/views/home.html",
+		"/Users/Tim/wdi/project/u1-project-4/project-lyrical/public/app/controllers.js",
+		"/Users/Tim/wdi/project/u2/public/app/services.js",
+		"/Users/Tim/wdi/project/u1-project-3/angular-recipes/public/index.html",
+		"/Users/Tim/wdi/project/u2/public/app/views/404.html",
+		"/Users/Tim/wdi/project/u2/public/css/style.css",
+		"/Users/Tim/wdi/project/u2/public/app/serivces.js",
+		"/Users/Tim/wdi/project/u2/middleware/isLoggedin.js",
+		"/Users/Tim/wdi/project/u1-project-2/middleware/isLoggedin.js",
+		"/Users/Tim/wdi/project/u2/.env",
+		"/Users/Tim/wdi/project/u2/models/post.js",
+		"/Users/Tim/wdi/project/u1-project-2/models/event.js",
+		"/Users/Tim/wdi/project/u1-project-2/models/user.js",
+		"/Users/Tim/wdi/project/u2/models/index.js",
+		"/Users/Tim/wdi/project/u2/config/config.json",
+		"/Users/Tim/wdi/project/u2/views/loginForm.ejs",
+		"/Users/Tim/wdi/exercises/express-auth/.env",
+		"/Users/Tim/wdi/project/hackthon/iHelp/public/app/controllers.js",
+		"/Users/Tim/wdi/project/hackthon/iHelp/public/app/app.js",
+		"/Users/Tim/wdi/project/hackthon/iHelp/public/index.html",
+		"/Users/Tim/wdi/project/u2/public/app/controller.js",
+		"/Users/Tim/wdi/project/u2/public/app.js",
+		"/Users/Tim/wdi/project/u1-project-6/sequeltest/migrations/20170809005410-create-user.js",
+		"/Users/Tim/wdi/project/u1-project-6/sequeltest/models/user.js",
+		"/Users/Tim/wdi/project/u1-project-6/sequeltest/models/user_website.js",
+		"/Users/Tim/wdi/project/u1-project-6/sequeltest/models/website.js",
+		"/Users/Tim/wdi/project/u1-project-6/sequeltest/migrations/20170809005530-create-website.js",
+		"/Users/Tim/wdi/project/hackthon/index.js",
+		"/Users/Tim/wdi/project/hackthon/public/app/controllers.js",
+		"/Users/Tim/wdi/project/hackthon/.gitignore",
+		"/Users/Tim/wdi/project/hackthon/public/app/views/confirm.html",
+		"/Users/Tim/wdi/project/hackthon/public/app/views/response.html",
+		"/Users/Tim/wdi/project/hackthon/public/app/views/request.html",
+		"/Users/Tim/wdi/project/hackthon/public/app/views/profile2.html",
+		"/Users/Tim/wdi/project/hackthon/public/app/views/profile1.html",
+		"/Users/Tim/wdi/project/hackthon/public/css/style.css",
+		"/Users/Tim/wdi/project/hackthon/public/index.html",
+		"/Users/Tim/wdi/project/hackthon/public/app/views/login.html",
+		"/Users/Tim/wdi/project/hackthon/public/app/views/home.html",
+		"/Users/Tim/wdi/project/hackthon/public/app/app.js",
+		"/Users/Tim/wdi/project/hackthon/public/app/views/learnmore.html",
+		"/Users/Tim/wdi/project/hackthon/public/app/views/feed.html",
+		"/Users/Tim/wdi/project/hackthon/public/app/views/profile3.html",
+		"/Users/Tim/wdi/project/hackthon/public/app/views/profile.html",
+		"/Users/Tim/wdi/project/hackthon/public/app/views/news.html",
+		"/Users/Tim/wdi/project/hackthon/public/app/views/fighters.html",
+		"/Users/Tim/wdi/project/hackthon/public/app/views/events.html",
+		"/Users/Tim/wdi/project/hackathon/package.json",
+		"/Users/Tim/wdi/exercises/express-auth/views/home.ejs",
+		"/Users/Tim/wdi/exercises/express-auth/views/loginForm.ejs",
+		"/Users/Tim/wdi/exercises/express-auth/index.js",
+		"/Users/Tim/wdi/exercises/express-auth/views/signupForm.ejs"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 401.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 156.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
