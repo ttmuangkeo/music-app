@@ -85,7 +85,7 @@ class Account {
 
 	private function validateEmails($em, $em2) {
 		if($em != $em2) {
-			array_push($this->errorArray, Constant::$emailsDoNotMatch);
+			array_push($this->errorArray, Constants::$emailsDoNotMatch);
 			return;
 		}
 
