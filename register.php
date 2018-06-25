@@ -25,7 +25,7 @@ function getInputValue($name) {
 	<link rel="stylesheet" type="text/css" href="assets/css/register.css">
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-	<<script src="assets/js/register.js"></script>
+	<script src="assets/js/register.js"></script>
 </head>
 <body>
 
@@ -139,7 +139,16 @@ $(document).ready(function() {
 
 			</form>
 		</div>
+		<div id="loginText">
+			<h1>Get great music right now</h1>
+			<h2>listen to loads of songs for free</h2>
+			<ul>
+				<li>Discover you fall in love with</li>
+				<li>create your own playlists </li>
+				<li>follow artist to keep up to date</li>
+			</ul>
+		</div>
 	</div>
-</div>
+	</div>
 </body>
 </html>
