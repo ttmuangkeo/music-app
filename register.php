@@ -23,6 +23,9 @@ function getInputValue($name) {
 <head>
 	<title>Welcome to my Music Project</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/register.css">
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<<script src="assets/js/register.js"></script>
 </head>
 <body>
 	<div id="background">
@@ -41,6 +44,12 @@ function getInputValue($name) {
 					<input id="loginPassword" name="loginPassword" type="password" required>
 				</p>
 				<button type="submit" name="loginButton">LOG IN</button>
+
+				<div class="hasAccountText">
+					<span class="hideLogin">Dont have a account yet? Sign up here</span>
+				</div>
+
+
 			</form>
 
 
@@ -101,6 +110,11 @@ function getInputValue($name) {
 				<p>
 
 				<button type="submit" name="registerButton">Sign Up</button>
+
+				<div class="hasAccountText">
+					<span class="hideRegister">Already have an account. Login here</span>
+				</div>
+
 			</form>
 		</div>
 	</div>
