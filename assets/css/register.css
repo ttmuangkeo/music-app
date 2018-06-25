@@ -21,3 +21,10 @@ body {
 	line-height: 1em;
 	box-sizing: border-box;
 }
+
+#loginContainer {
+	width: 80%;
+	margin: 0 auto;
+	position: relative;
+	max-width: 1024px;
+}
