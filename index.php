@@ -1,9 +1,22 @@
-<link rel="stylesheet" href="css">
-<div class="container">
-	<div class="row"></div>
+<?php 
+include('includes/config.php');
+
+if(isset($_SESSION['userLoggedIn'])) {
+	$userLoggedIn = $_SESSION['userLoggedIn'];
+} else {
+	header("Location: register.php");
+}
+
+?>
+
+
+
+
+<html>
+<head>
+	<title>welcome to music app</title>
+</head>
+<body>
 	<h1>hello</h1>
-</div>
-<input type="text">
-<input type="textarea">
-<button>sample</button>
-<img src="../assets/images/profile-pics/Anonymous-Whatsapp-profile-picture.jpg" alt="">
+</body>
+</html>
