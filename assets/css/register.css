@@ -1,0 +1,23 @@
+html,
+body {
+	padding: 0;
+	margin: 0;
+	height: 100%;
+}
+
+#background {
+	background-image: url('../images/bg.jpg');
+	background-position: center;
+	background-size: cover;
+	display: table;
+	height: 100%;
+	width: 100%;
+}
+
+#loginContainer * {
+	color: #fff;
+	font-family: "verdana", "Ariel", "Sans-Serif";
+	font-weight: normal;
+	line-height: 1em;
+	box-sizing: border-box;
+}
